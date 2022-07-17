@@ -4,4 +4,10 @@ pandas
 matplotlib
 seaborn
 nltk
+scikit-learn
+joblib
 unidecode
+Unidecode
+wordcloud
+SentimentAnalysis
+spanish_sentiment_analysis
